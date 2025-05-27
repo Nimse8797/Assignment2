@@ -1,4 +1,4 @@
-# Assignment2
+# Assignment3
 #Task 1:This program
 1. Defines a function named factorial that takes a number as an argument and calculates its factorial using a loop or recursion.
 2.   Returns the calculated factorial.
